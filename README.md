@@ -29,5 +29,7 @@ Editor de áudio
 Utilize os prompts do link Notionfornecido na parte de Materiaispara criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 🤖 1. Use os prompts de roteiro no chagpt
+
 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs
+
 🤖 3. Use os prompts de artes no bluewillow
